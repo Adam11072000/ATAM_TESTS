@@ -6,5 +6,5 @@ be sure to have the exact same directory hirarchy as SEGEL wants.
 
 P.S if run.sh and tester_2.sh don't work, first do chmod +x run.sh then have at it.
 
-P.S.2 a_2.o file is too big to upload on github, i'll send it on whatsapp.
+P.S.2 a_2.o file is too big, so it's zipped. don't forget to unzip it.
 enjoy :)
