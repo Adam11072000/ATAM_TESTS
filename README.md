@@ -1,4 +1,4 @@
-# ATAM_TESTS
+# ATAM_WET3_TESTS
 Hi!
 be sure to have the exact same directory hirarchy as SEGEL wants.
 1)	copy all files from this repository into the main directory,which should have part1, part2 and this repository, also download prog from dry homework
